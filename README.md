@@ -1,2 +1,2 @@
 # Mean-Field-Game
-The proof is in the pdf file. 
+The proof is in the Detailed_proof file. 
