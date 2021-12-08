@@ -1,2 +1,2 @@
 # Mean-Field-Game
-The proof is in the Detailed_proof file. 
+The latest version of the proof document is Detailed_proof_v2 file. 
